@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Italy",
+    "id": "italy",
+    "location": "Rialto Bridge, Venezia, Italy",
+    "description": "Nestled in the heart of Venice, the Rialto Bridge stands as an iconic symbol of this enchanting city. Spanning the Grand Canal, the bridge is a masterpiece of Renaissance architecture, adorned with vibrant shops and stalls. Visitors can immerse themselves in the rich history of Venice while enjoying breathtaking views of the canal and surrounding historic buildings.",
+    "image": {
+      "publicId": "my-travel-ai/damiano-baschiera-hFXZ5cNfkOk-unsplash_eaki3q",
+      "url": "/images/damiano-baschiera-hFXZ5cNfkOk-unsplash.jpg",
+      "width": 3641,
+      "height": 5522,
+      "alt": "Boat in river"
+    },
+    "source": "https://unsplash.com/photos/rialto-bridge-venice-italy-hFXZ5cNfkOk"
+  },
+  {
+    "title": "Brazil",
+    "id": "brazil",
+    "location": "Rio de Janeiro, Brazil",
+    "description": "Rio de Janeiro, with its captivating blend of stunning natural landscapes and vibrant urban energy, is a must-visit destination. Famous for its iconic Christ the Redeemer statue overlooking the city, Copacabana and Ipanema beaches, and the lively Carnival celebrations, Rio de Janeiro offers a unique and lively cultural experience.",
+    "image": {
+      "publicId": "my-travel-ai/agustin-diaz-gargiulo-7F65HDP0-E0-unsplash_b2sjpu",
+      "url": "/images/agustin-diaz-gargiulo-7F65HDP0-E0-unsplash.jpg",
+      "width": 6000,
+      "height": 4000,
+      "alt": "Sugarloaf Mountain",
+      "source": "https://unsplash.com/photos/aerial-photography-of-cityscape-near-sea-7F65HDP0-E0"
+    },
+    "video": {
+      "publicId": "my-travel-ai/beach_-_78287_1080p_cii2ig",
+      "url": "/videos/beach_-_78287 (1080p).mp4",
+      "width": 1920,
+      "height": 1080
+    },
+    "explore": [
+      {
+        "publicId": "my-travel-ai/7187061-hd_1920_1080_24fps_cpw7uv",
+        "url": "/videos/7187061-hd_1920_1080_24fps.mp4",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "publicId": "my-travel-ai/IMG_8815_tj1prc",
+        "url": "/videos/IMG_8815.mov",
+        "width": 3840,
+        "height": 2160
+      }
+    ],
+    "items": [
+      {
+        "title": "Sunscreen",
+        "publicId": "my-travel-ai/lina-verovaya-BibJjO4sYrI-unsplash_r2lgpy",
+        "url": "/images/lina-verovaya-BibJjO4sYrI-unsplash.jpg",
+        "width": 6720,
+        "height": 4480
+      },
+      {
+        "title": "Sandals",
+        "publicId": "my-travel-ai/kawe-rodrigues-ftJdJoIPICA-unsplash_sfgdg3",
+        "url": "/images/kawe-rodrigues-ftJdJoIPICA-unsplash.jpg",
+        "width": 4000,
+        "height": 6000
+      },
+      {
+        "title": "Binoculars",
+        "publicId": "my-travel-ai/erik-mclean-ovd2ZOMPuMU-unsplash_vrf2lv",
+        "url": "/images/erik-mclean-ovd2ZOMPuMU-unsplash.jpg",
+        "width": 5472,
+        "height": 3648
+      },
+      {
+        "title": "Sunglasses",
+        "publicId": "my-travel-ai/giorgio-trovato-K62u25Jk6vo-unsplash_xaarce",
+        "url": "/images/giorgio-trovato-K62u25Jk6vo-unsplash.jpg",
+        "width": 6000,
+        "height": 6000
+      }
+    ]
+  },
+  {
+    "title": "Arizona",
+    "id": "arizona",
+    "location": "Horseshoe Bend, Page, United States",
+    "description": "Nestled within the breathtaking landscapes of Arizona, Horseshoe Bend is a natural wonder carved by the Colorado River. The horseshoe-shaped meander offers a dramatic vista of red sandstone cliffs against the emerald waters below. A popular spot for photography and outdoor enthusiasts, Horseshoe Bend provides a serene escape into the heart of the American Southwest.",
+    "image": {
+      "publicId": "my-travel-ai/drif-riadh-YpkuRn54y4w-unsplash_tlx3aq",
+      "url": "/images/drif-riadh-YpkuRn54y4w-unsplash.jpg",
+      "width": 5472,
+      "height": 3648,
+      "alt": "Woman watching over canyon"
+    },
+    "source": "https://unsplash.com/photos/woman-standing-on-top-of-canyon-YpkuRn54y4w"
+  },
+  {
+    "title": "Thailand",
+    "id": "thailand",
+    "location": "Ao Nang, Thailand",
+    "description": "Located in the Krabi Province, Ao Nang is a coastal gem renowned for its stunning limestone cliffs, clear turquoise waters, and vibrant nightlife. Serving as a gateway to the nearby islands, including Railay Beach and the Phi Phi Islands, Ao Nang offers a perfect blend of relaxation and adventure for beach lovers and water enthusiasts alike.",
+    "image": {
+      "publicId": "my-travel-ai/sara-dubler-Koei_7yYtIo-unsplash_pdfvxk",
+      "url": "/images/sara-dubler-Koei_7yYtIo-unsplash.jpg",
+      "width": 3456,
+      "height": 2304,
+      "alt": "Pool with chairs"
+    },
+    "source": "https://unsplash.com/photos/photo-of-brown-bench-near-swimming-pool-Koei_7yYtIo"
+  },
+  {
+    "title": "Iceland",
+    "id": "iceland",
+    "location": "Westfjords Region, Iceland",
+    "description": "The Westfjords Region in Iceland is a remote and untouched paradise, characterized by rugged coastlines, steep cliffs, and serene fjords. Far from the crowds, this region provides a unique opportunity to connect with nature, explore hidden waterfalls, and witness the Northern Lights dancing across the Arctic sky, making it an ideal destination for those seeking tranquility and natural beauty.",
+    "image": {
+      "publicId": "my-travel-ai/luke-stackpoole-5Qqkjn4PFPA-unsplash_xmsjrh",
+      "url": "/images/luke-stackpoole-5Qqkjn4PFPA-unsplash.jpg",
+      "width": 5069,
+      "height": 6336,
+      "alt": "Northern lights"
+    },
+    "source": "https://unsplash.com/photos/person-standing-near-body-of-water-during-aurora-northern-sky-5Qqkjn4PFPA"
+  },
+  {
+    "title": "United Kingdom",
+    "id": "united-kingdom",
+    "location": "Glenfinnan Viaduct, Glenfinnan, United Kingdom",
+    "description": "Nestled in the picturesque Scottish Highlands, the Glenfinnan Viaduct is a historic railway bridge that has become famous for its appearance in the Harry Potter film series. Surrounded by stunning landscapes, including Loch Shiel and the Glenfinnan Monument, this location offers a nostalgic journey into both natural and cinematic wonders, making it a captivating destination for history buffs and film enthusiasts alike.",
+    "image": {
+      "publicId": "my-travel-ai/jack-anstey-XVoyX7l9ocY-unsplash_q9ithw",
+      "url": "/images/jack-anstey-XVoyX7l9ocY-unsplash.jpg",
+      "width": 3727,
+      "height": 2383,
+      "alt": "Train on bridge"
+    },
+    "source": "https://unsplash.com/photos/train-on-bridge-surrounded-with-trees-at-daytime-XVoyX7l9ocY"
+  }
+]
