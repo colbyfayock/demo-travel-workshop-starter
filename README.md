@@ -16,9 +16,7 @@ NEXT_PUBLIC_CLOUDINARY_API_KEY="<Your API Key>"
 CLOUDINARY_API_SECRET="<Your API Secret>"
 ```
 
-* Run the setup script to add project images and videos to your account:
-
-From the root of the project, run:
+* Run the following setup script from the root of your project to add project images and videos to your account:
 
 ```
 node scripts/setup.js
