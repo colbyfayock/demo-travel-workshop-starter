@@ -54,6 +54,7 @@ export default async function Destination({ params }: { params: { destinationId:
         </div>
       </Container>
 
+      {/** What to Pack */}
 
       {destination.items && (
         <Container className="my-36">
@@ -82,6 +83,8 @@ export default async function Destination({ params }: { params: { destinationId:
           </div>
         </Container>
       )}
+
+      {/** Traveler Photos */}
 
       <Container className="my-36">
         <div className="prose-lg mx-auto">
@@ -122,6 +125,8 @@ export default async function Destination({ params }: { params: { destinationId:
           )}
         </div>
       </Container>
+
+      {/** Explore Videos */}
       
       {destination.explore && (
         <Container className="my-24">
@@ -150,6 +155,8 @@ export default async function Destination({ params }: { params: { destinationId:
     </>
   )
 }
+
+// Custom Social Card dynamically generated for each destination
 
 export async function generateMetadata({ params }: { params: { destinationId: string; }}) {
   const destination = destinations.find(({ id }) => id === params.destinationId);
