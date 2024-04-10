@@ -5,7 +5,7 @@
 * Create a new project by running the following in your terminal:
 
 ```
-npx create-next-app@latest -e https://github.com/colbyfayock/demo-travel-workshop-starter my-travel-ai
+npx create-next-app@latest my-travel-ai -e https://github.com/colbyfayock/demo-travel-workshop-starter
 ```
 
 * Configure your Cloudinary account credentials in a `.env.local` file:
