@@ -5,7 +5,7 @@
 1. Create a new project
 
 To create our new project, we can either manually clone this repository or run the following command to automatically clone the
-repository and install all of the dependencies for you.
+repository and install all of the dependencies.
 
 ```
 npx create-next-app@latest my-travel-ai -e https://github.com/colbyfayock/demo-travel-workshop-starter
