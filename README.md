@@ -31,7 +31,7 @@ These values should be from your personal Cloudinary account which you can find 
 3. Run the setup script
 
 This project assumes that some images and videos exist with specific names. Rather than manually uploading these file by file,
-we'll run the setup script that will automatically upload them all for your.
+we'll run the setup script that will automatically upload them all for you.
 
 From the root of your project run the following to add the project images and videos to your Cloudinary account:
 
