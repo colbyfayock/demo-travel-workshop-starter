@@ -54,6 +54,18 @@ export default async function Destination({ params }: { params: { destinationId:
         </div>
       </Container>
 
+      {destination.video && (
+        <Container className="my-24">
+          <div className="mx-auto mb-12">
+            <CldVideoPlayer
+              src={destination.video.publicId}
+              width={destination.video.width}
+              height={destination.video.height}
+            />
+          </div>
+        </Container>
+      )}
+
       {/** What to Pack */}
 
       {destination.items && (
