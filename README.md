@@ -1,25 +1,30 @@
-# Travel Workshop Starter
+# Demo Travel Workshop Starter
 
-A starter project focused on travel workshop, built with Next.js.
+A Next.js travel guide with destination pages, Cloudinary-hosted images and videos, packing lists, and a photo-upload flow for traveler images.
 
 ## Use this template
 
 ```bash
-npx create-next-app -e https://github.com/colbyfayock/demo-travel-workshop-starter
+
 ```
 
 ## Local setup
 
-Install dependencies with npm and start the development server:
+Install dependencies with npm, then set up Cloudinary credentials in `.env.local`:
 
 ```bash
 npm install
-npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the app.
+```dotenv
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=<Cloudinary cloud name>
+NEXT_PUBLIC_CLOUDINARY_API_KEY=<Cloudinary API key>
+CLOUDINARY_API_SECRET=<Cloudinary API secret>
+```
 
-Use `npm run build` to build the project.
-Use `npm run start` to run the production build.
+Upload the sample destination images and videos to Cloudinary, then start the development server:
 
-Environment variables listed in `.env.example` are required for the corresponding integrations: ``NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME`, `NEXT_PUBLIC_CLOUDINARY_API_KEY`, `CLOUDINARY_API_SECRET``.
+```bash
+node scripts/setup.js
+npm run dev
+```
