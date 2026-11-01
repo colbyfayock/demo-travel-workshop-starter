@@ -5,7 +5,7 @@ A Next.js travel guide with destination pages, Cloudinary-hosted images and vide
 ## Use this template
 
 ```bash
-
+npx create-next-app -e https://github.com/colbyfayock/demo-travel-workshop-starter
 ```
 
 ## Local setup
